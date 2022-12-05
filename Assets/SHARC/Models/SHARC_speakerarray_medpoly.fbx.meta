@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 622d8b24ec7cc7144932ef501d64034c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Speakers
+    100004: Support
+    100006: Support.001
+    100008: Support.002
+    100010: Support.003
+    100012: Support.004
+    100014: Support.005
+    400000: //RootNode
+    400002: Speakers
+    400004: Support
+    400006: Support.001
+    400008: Support.002
+    400010: Support.003
+    400012: Support.004
+    400014: Support.005
+    2100000: BlackGloss
+    2100002: SpeakerMesh
+    2100004: SupportMetal
+    2100006: Material.002
+    2100008: SpeakerInside
+    2100010: Red Rubber
+    2100012: WireClump
+    2300000: Speakers
+    2300002: Support
+    2300004: Support.001
+    2300006: Support.002
+    2300008: Support.003
+    2300010: Support.004
+    2300012: Support.005
+    3300000: Speakers
+    3300002: Support
+    3300004: Support.001
+    3300006: Support.002
+    3300008: Support.003
+    3300010: Support.004
+    3300012: Support.005
+    4300000: Speakers
+    4300002: Support.005
+    4300004: Support.004
+    4300006: Support.003
+    4300008: Support.002
+    4300010: Support.001
+    4300012: Support
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackGloss
+    second: {fileID: 2100000, guid: 7cb9f9c14f95dfd478d7fbad0150b6cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 8b22f1e2f1c27b144b9f60d05ce9ea3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Rubber
+    second: {fileID: 2100000, guid: ff74ba06a49973f44b15473cc1e4f95c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SpeakerInside
+    second: {fileID: 2100000, guid: da407b4dcd76505469c37c95e9704c72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SpeakerMesh
+    second: {fileID: 2100000, guid: 1e59bf9d123b9374a9b05d948f29d15e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SupportMetal
+    second: {fileID: 2100000, guid: 4f0b1df8d2e2ca44795a26ace6d20463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WireClump
+    second: {fileID: 2100000, guid: bde3c2a63f31ed944bbe12704d2eb62b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

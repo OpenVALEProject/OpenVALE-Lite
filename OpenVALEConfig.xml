@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+   <applicationSettings>
+      <setting name="WavFile" serializeAs="string">
+         <value>sample</value>
+      </setting>
+      <setting name="LevelName" serializeAs="string">
+         <value>OpenVALE</value>
+      </setting>
+      <setting name="HMDType" serializeAs="string">
+         <value>Rift</value>
+      </setting>
+      <setting name="CueMode" serializeAs="string">
+         <value>continuous</value>
+      </setting>
+      <setting name="HrtfFile" serializeAs="string">
+         <value>mit_kemar_normal_pinna</value>
+      </setting>
+      <setting name="HideResult" serializeAs="string">
+         <value></value>
+      </setting>
+      <setting name="ResultPath" serializeAs="string">
+         <value></value>
+      </setting>
+      <setting name="NumTrials" serializeAs="string">
+         <value>10</value>
+      </setting>
+   </applicationSettings>
+</configuration>

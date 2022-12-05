@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: c6e38413fb2c60c45b0a5e0bb8f3f25e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Floor Springs
+    100002: Floor Springs.001
+    100004: Floor Springs.002
+    100006: Floor Springs.003
+    100008: Light Switch
+    100010: Light Switch.001
+    100012: Outlet
+    100014: Outlet.001
+    100016: Outlet.002
+    100018: Outlet.003
+    100020: Outlet.004
+    100022: Outlet.005
+    100024: //RootNode
+    100026: Wires Pipe
+    100028: Black Wires
+    100030: Red Wires
+    100032: Acoustic Tiling
+    100034: Black Wires.001
+    100036: Camera
+    100038: Detail Objects
+    100040: Door
+    100042: Doorframe
+    100044: Energy Efficient Light
+    100046: Energy Efficient Light Bulb
+    100048: Gehaeuse
+    100050: Leuchtwendel
+    100052: LeuchtwendelEmitter
+    100054: Light Bulbs
+    100056: Mesh
+    100058: Mesh Floor
+    100060: Point
+    100062: Red Wires.001
+    100064: RoomBox
+    100066: SchaftWendelLi
+    100068: SchaftWendelRe
+    100070: Speaker Ring Control
+    100072: Speaker Ring Control Helper
+    100074: Speakers
+    100076: Support
+    100078: Support.001
+    100080: Support.002
+    100082: Support.003
+    100084: Support.004
+    100086: Support.005
+    100088: SupportBeams
+    100090: Wires Empty
+    100092: Wires Empty.001
+    100094: Cable Supports
+    100096: Black Wires_L_Lib
+    100098: Red Wires_L_Lib
+    100100: Wires Empty_L_Lib
+    100102: Spring Map
+    400000: Floor Springs
+    400002: Floor Springs.001
+    400004: Floor Springs.002
+    400006: Floor Springs.003
+    400008: Light Switch
+    400010: Light Switch.001
+    400012: Outlet
+    400014: Outlet.001
+    400016: Outlet.002
+    400018: Outlet.003
+    400020: Outlet.004
+    400022: Outlet.005
+    400024: //RootNode
+    400026: Wires Pipe
+    400028: Black Wires
+    400030: Red Wires
+    400032: Acoustic Tiling
+    400034: Black Wires.001
+    400036: Camera
+    400038: Detail Objects
+    400040: Door
+    400042: Doorframe
+    400044: Energy Efficient Light
+    400046: Energy Efficient Light Bulb
+    400048: Gehaeuse
+    400050: Leuchtwendel
+    400052: LeuchtwendelEmitter
+    400054: Light Bulbs
+    400056: Mesh
+    400058: Mesh Floor
+    400060: Point
+    400062: Red Wires.001
+    400064: RoomBox
+    400066: SchaftWendelLi
+    400068: SchaftWendelRe
+    400070: Speaker Ring Control
+    400072: Speaker Ring Control Helper
+    400074: Speakers
+    400076: Support
+    400078: Support.001
+    400080: Support.002
+    400082: Support.003
+    400084: Support.004
+    400086: Support.005
+    400088: SupportBeams
+    400090: Wires Empty
+    400092: Wires Empty.001
+    400094: Cable Supports
+    400096: Black Wires_L_Lib
+    400098: Red Wires_L_Lib
+    400100: Wires Empty_L_Lib
+    400102: Spring Map
+    2000000: Camera
+    2100000: PVC
+    2100002: SupportMetal
+    2100004: Black Rubber
+    2100006: Red Rubber
+    2100008: Material.001
+    2100010: MetalPanel
+    2100012: Caution Tape
+    2100014: BlackGloss
+    2100016: SpeakerMesh
+    2100018: SpeakerInside
+    2100020: No Name
+    2100022: PlastBaseMat
+    2100024: Glass
+    2100026: Emitter
+    2100028: Black Rubber.002
+    2100030: Spring Map
+    2300000: Floor Springs
+    2300002: Floor Springs.001
+    2300004: Floor Springs.002
+    2300006: Floor Springs.003
+    2300008: Light Switch
+    2300010: Light Switch.001
+    2300012: Outlet
+    2300014: Outlet.001
+    2300016: Outlet.002
+    2300018: Outlet.003
+    2300020: Outlet.004
+    2300022: Outlet.005
+    2300024: Wires Pipe
+    2300026: Black Wires
+    2300028: Red Wires
+    2300030: Acoustic Tiling
+    2300032: Black Wires.001
+    2300034: Door
+    2300036: Doorframe
+    2300038: Energy Efficient Light
+    2300040: Gehaeuse
+    2300042: Leuchtwendel
+    2300044: LeuchtwendelEmitter
+    2300046: Light Bulbs
+    2300048: Mesh
+    2300050: Mesh Floor
+    2300052: Red Wires.001
+    2300054: RoomBox
+    2300056: SchaftWendelLi
+    2300058: SchaftWendelRe
+    2300060: Speakers
+    2300062: Support
+    2300064: Support.001
+    2300066: Support.002
+    2300068: Support.003
+    2300070: Support.004
+    2300072: Support.005
+    2300074: Cable Supports
+    2300076: Black Wires_L_Lib
+    2300078: Red Wires_L_Lib
+    2300080: Spring Map
+    3300000: Floor Springs
+    3300002: Floor Springs.001
+    3300004: Floor Springs.002
+    3300006: Floor Springs.003
+    3300008: Light Switch
+    3300010: Light Switch.001
+    3300012: Outlet
+    3300014: Outlet.001
+    3300016: Outlet.002
+    3300018: Outlet.003
+    3300020: Outlet.004
+    3300022: Outlet.005
+    3300024: Wires Pipe
+    3300026: Black Wires
+    3300028: Red Wires
+    3300030: Acoustic Tiling
+    3300032: Black Wires.001
+    3300034: Door
+    3300036: Doorframe
+    3300038: Energy Efficient Light
+    3300040: Gehaeuse
+    3300042: Leuchtwendel
+    3300044: LeuchtwendelEmitter
+    3300046: Light Bulbs
+    3300048: Mesh
+    3300050: Mesh Floor
+    3300052: Red Wires.001
+    3300054: RoomBox
+    3300056: SchaftWendelLi
+    3300058: SchaftWendelRe
+    3300060: Speakers
+    3300062: Support
+    3300064: Support.001
+    3300066: Support.002
+    3300068: Support.003
+    3300070: Support.004
+    3300072: Support.005
+    3300074: Cable Supports
+    3300076: Black Wires_L_Lib
+    3300078: Red Wires_L_Lib
+    3300080: Spring Map
+    4300000: Wires Pipe
+    4300002: Outlet.005
+    4300004: Floor Springs.003
+    4300006: Floor Springs.002
+    4300008: Floor Springs.001
+    4300010: Floor Springs
+    4300012: Outlet.002
+    4300014: Light Switch.001
+    4300016: Red Wires
+    4300018: Black Wires
+    4300020: Mesh Floor
+    4300022: Red Wires.001
+    4300024: Black Wires.001
+    4300026: Acoustic Tiling
+    4300028: Doorframe
+    4300030: Door
+    4300032: Speakers
+    4300034: Support.005
+    4300036: Support.004
+    4300038: Support.003
+    4300040: Support.002
+    4300042: Support.001
+    4300044: Support
+    4300046: Mesh
+    4300048: RoomBox
+    4300050: Light Bulbs
+    4300052: Gehaeuse
+    4300054: Leuchtwendel
+    4300056: LeuchtwendelEmitter
+    4300058: SchaftWendelLi
+    4300060: SchaftWendelRe
+    4300062: Energy Efficient Light
+    4300064: Cable Supports
+    4300066: Black Wires_L_Lib
+    4300068: Red Wires_L_Lib
+    4300070: Spring Map
+    10800000: Point
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Rubber
+    second: {fileID: 2100000, guid: 386f4ba77273e044296dd764252b79f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Rubber.002
+    second: {fileID: 2100000, guid: 386f4ba77273e044296dd764252b79f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PVC
+    second: {fileID: 2100000, guid: 977ada11994c79044ac7c933e4608495, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Rubber
+    second: {fileID: 2100000, guid: ff74ba06a49973f44b15473cc1e4f95c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spring Map
+    second: {fileID: 2100000, guid: a5c0f9377d4b2c84990315a953706937, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SupportMetal
+    second: {fileID: 2100000, guid: 4f0b1df8d2e2ca44795a26ace6d20463, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
