@@ -4,4 +4,4 @@ OpenVALE Lite is a simple framework for researchers to evaluate HRTFs for audio 
 
 For the original OpenVALE project, see https://gitlab.com/OpenVALE/OpenVALE.
 
-For more information about OpenVALE Lite and detailed instructions about its use, refer to the full [README](#readme.pdf).
+For more information about OpenVALE Lite and detailed instructions about its use, refer to the full [README](https://gitlab.com/OpenVALE/openvale-lite/-/blob/master/README.pdf).
